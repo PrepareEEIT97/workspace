@@ -1,6 +1,6 @@
 package Student.prepare;
 
-public class NineNine {
+public class NineNineMultiplicationTable {
 
 	public static void main(String[] args) {
 		//99乘法表
