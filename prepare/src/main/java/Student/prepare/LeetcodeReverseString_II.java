@@ -7,7 +7,7 @@ public class LeetcodeReverseString_II {
 //			Input: s = "abcdefg", k = 2
 //			Output: "bacdfeg"
 		LeetcodeReverseString_II leetcodeReverseString_II=new LeetcodeReverseString_II();
-		System.out.println(leetcodeReverseString_II.reverseStr("abcdefgh",2));
+		System.out.println(leetcodeReverseString_II.reverseStr("abcdefg",2));
 			
 	}
 	public String reverseStr(String s, int k) {
