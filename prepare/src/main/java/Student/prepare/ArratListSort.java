@@ -25,10 +25,12 @@ public class ArratListSort {
 		for(String s:name){
 			System.out.print(s);
 		}
+		System.out.println("以上是26行印出============");
 		name.set(4, "2");
 		for(String s:name){
 			System.out.print(s);
 		}
+		System.out.println("以上是31行印出=====================");
 		Iterator  aa=name.iterator();
 		while(aa.hasNext()){
 			System.out.print("11"+aa.next());
